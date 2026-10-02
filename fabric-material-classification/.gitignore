@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+dataset/raw/**
+!dataset/raw/README.md
+manifests/*.csv
+models/*.pth
+outputs/*
+!outputs/.gitkeep
+!outputs/README.md
+

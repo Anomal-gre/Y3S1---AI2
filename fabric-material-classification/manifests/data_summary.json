@@ -1,0 +1,33 @@
+{
+  "train": {
+    "Cotton": 819,
+    "Cotton Mixed": 798,
+    "Denim": 762,
+    "Polyester": 780,
+    "Silk": 609,
+    "Viscose": 738,
+    "Wool": 657
+  },
+  "validation": {
+    "Cotton": 59,
+    "Cotton Mixed": 58,
+    "Denim": 53,
+    "Polyester": 56,
+    "Silk": 44,
+    "Viscose": 49,
+    "Wool": 48
+  },
+  "test": {
+    "Cotton": 60,
+    "Cotton Mixed": 58,
+    "Denim": 51,
+    "Polyester": 55,
+    "Silk": 43,
+    "Viscose": 52,
+    "Wool": 51
+  },
+  "invalid_image_count": 0,
+  "quarantined_image_count": 384,
+  "quarantined_source_family_count": 78,
+  "usable_image_count": 5900
+}
